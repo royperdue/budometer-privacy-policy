@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/royperdue/budometer-privacy-policy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Budometer - Privacy Policy</title>
+</head>
+<body>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h3>Budometer - Privacy Policy</h3>
+<p>The application Budometer, hereby defined as the app, requests the following potentially sensitive data:</p>
+<ul>
+	<li>android.permission.CAMERA</li>
+</ul>
+<p>This potentially sensitive data is not transmitted over the internet, and is not stored by the app. It is not handled by any system other than the device the app is installed on.</p>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/royperdue/budometer-privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
